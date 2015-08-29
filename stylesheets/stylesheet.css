@@ -100,7 +100,13 @@ a {
 	line-height: 18px;
 }
 h1 {
-	font: small-caps 24pt Courier New;
+	font: uppercase 24pt Courier New;
+	margin: 0px;
+	padding: 8px 0px;
+	clear: both;
+}
+h2 {
+	font: 18pt Courier New;
 	margin: 0px;
 	padding: 8px 0px;
 	clear: both;
