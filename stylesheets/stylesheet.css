@@ -35,13 +35,29 @@ a {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
+  border-color: rgba(255, 255, 255, 0.3); 
+	
+}
 
 .page-header {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: linear-gradient(120deg, #155799, #159957); 
+	
+}
+.page-header h1 {
+  font: uppercase 24pt Courier New;
+	margin: 0px;
+	padding: 8px 0px;
+	clear: both; 
+}
+.page-header h2 {
+	font: 18pt Courier New;
+	margin: 0px;
+	padding: 8px 0px;
+	clear: both;
+}
 
 #container {
 	width: 350px;
