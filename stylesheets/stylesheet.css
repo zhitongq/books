@@ -63,7 +63,7 @@ a {
 	width: 350px;
 	border-right: 2px #999 solid;
 	float: left;
-	background: url(http://i.appsafari.com/wp-content/uploads/2010/04/shelf_wood_landscape.png);
+	background-image: url(http://i.appsafari.com/wp-content/uploads/2010/04/shelf_wood_landscape.png);
 }
 #img_viewer {
 	margin: 0;
