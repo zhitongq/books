@@ -104,8 +104,8 @@ a {
 }
 #img_viewer li div img {
 	margin: 0px auto 10px auto;
-	width: 50%;
-	height: 50%;
+	width: 10%;
+	height: 10%;
 	display: block;
 }
 #img_viewer li:hover div {
