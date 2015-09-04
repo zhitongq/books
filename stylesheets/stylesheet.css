@@ -89,8 +89,8 @@ a {
 	color: #e0e0e0;
 }
 #img_viewer li img {
-	width: 40%;
-	height: 40%;
+	width: auto;
+	height: auto;
 	margin-left: -10%;
 	margin-top: -20%;
 }
