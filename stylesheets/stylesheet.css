@@ -80,7 +80,7 @@ a {
 #img_viewer li {
 	border: 2px #ccc solid;
 	width: 28%;
-	margin: 8px;
+	margin: 6px;
 	float: center;
 	overflow: hidden;
 	text-align: left;
@@ -88,8 +88,8 @@ a {
 	color: #e0e0e0;
 }
 #img_viewer li img {
-	width: 50%;
-	height: 50%;
+	width: 10%;
+	height: 10%;
 	margin-left: -10%;
 	margin-top: -20%;
 }
