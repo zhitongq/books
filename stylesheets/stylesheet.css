@@ -114,11 +114,11 @@ a {
 }
 #blurb {
 	margin-left: 20px;
-	border: 0px blue solid;
+	border: 0px solid;
 	float: left;
 	width: 50%;
 	left: 390px;
-	top: 300px;
+	top: 200px;
 	height: 800px;
 	overflow: auto;
 	font: 12pt Verdana;
