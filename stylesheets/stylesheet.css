@@ -88,9 +88,9 @@ a {
 	color: #e0e0e0;
 }
 #img_viewer li img {
-	width: 10%;
-	height: 10%;
-	margin-left: -50%;
+	width: 40%;
+	height: 40%;
+	margin-left: -10%;
 	margin-top: -20%;
 }
 #img_viewer li div {
