@@ -115,11 +115,11 @@ a {
 	margin-left: 20px;
 	border: 0px blue solid;
 	float: left;
-	width: 50%;
-	left: 370px;
-	top: 20px;
+	width: 100%;
+	left: 390px;
+	top: 300px;
 	overflow: auto;
-	font: 8pt Verdana;
+	font: 12pt Verdana;
 	line-height: 18px;
 }
 h1 {
