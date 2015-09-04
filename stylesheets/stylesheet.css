@@ -65,9 +65,10 @@ a {
 }
 
 #container {
-	width: 350px;
+	width: 300px;
 	border-right: 2px #999 solid;
-	float: left;
+	float: center;
+	font: 18pt Courier New;
 	background-image: url(http://i.appsafari.com/wp-content/uploads/2010/04/shelf_wood_landscape.png);
 }
 #img_viewer {
