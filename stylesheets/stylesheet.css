@@ -79,8 +79,7 @@ a {
 	list-style: none;
 }
 #img_viewer li {
-	border: 2px #ccc solid;
-	padding: 5px 10px;
+	border: 1px #ccc solid;
 	width: 35px;
 	height: 35px;
 	margin: 6px;
@@ -126,6 +125,18 @@ a {
 	font: 12pt Verdana;
 	line-height: 18px;
 }
+
+#container h1 {
+	padding-left: 8px;
+}
+#blurb ul li {
+	margin: 5px 0px;
+	list-style: square;
+}
+#nav {
+	font: small-caps 14pt Courier New;
+	color: #999;
+}
 h1 {
 	font: uppercase 24pt Courier New;
 	margin: 0px;
@@ -137,15 +148,4 @@ h2 {
 	margin: 0px;
 	padding: 8px 0px;
 	clear: both;
-}
-#container h1 {
-	padding-left: 8px;
-}
-#blurb ul li {
-	margin: 5px 0px;
-	list-style: square;
-}
-#nav {
-	font: small-caps 14pt Courier New;
-	color: #999;
 }
