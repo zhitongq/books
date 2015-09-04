@@ -80,12 +80,12 @@ a {
 }
 #img_viewer li {
 	border: 1px #ccc solid;
-	width: 45px;
-	height: 45px;
-	margin: 4px;
+	width: 28%;
+	height: 80px;
+	margin: 6px;
 	float: left;
 	overflow: hidden;
-	text-align: left;
+	text-align: right;
 	font: 10pt Arial;
 	color: #e0e0e0;
 }
