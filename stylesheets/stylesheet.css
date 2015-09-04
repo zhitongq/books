@@ -68,8 +68,8 @@ a {
 #container {
 	width: 350px;
 	height: 600px;
-	border-right: 5px #999 solid;
-	border-top: 8px #999 solid;
+	border-right: 3px #999 solid;
+	border-top: 4px #999 solid;
 	float: left;
 	background-image: url(http://i.appsafari.com/wp-content/uploads/2010/04/shelf_wood_landscape.png);
 }
@@ -80,7 +80,7 @@ a {
 }
 #img_viewer li {
 	border: 2px #ccc solid;
-	width: 28%;
+	width: 50px;
 	margin: 6px;
 	float: center;
 	overflow: hidden;
