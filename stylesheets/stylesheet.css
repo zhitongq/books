@@ -33,7 +33,7 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
   .btn + .btn {
     margin-left: 1rem; 
- 	padding: 25px 10rem;
+ 	padding: 15px 3rem;
   }
 
 .btn:hover {
