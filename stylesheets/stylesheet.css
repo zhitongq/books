@@ -85,8 +85,8 @@ a {
 	margin: 6px;
 	float: left;
 	overflow: hidden;
-	text-align: right;
-	font: 8pt Arial;
+	text-align: left;
+	font: 10pt Arial;
 	color: #e0e0e0;
 }
 #img_viewer li img {
@@ -95,7 +95,7 @@ a {
 	margin-top: -20%;
 }
 #img_viewer li div {
-	top: 50%;
+	top: 25%;
 	left: 370px;
 	padding: 10px;
 	background: url("http://i.imgur.com/O6J0pT9.png") repeat;
