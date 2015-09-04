@@ -99,14 +99,14 @@ a {
 	left: 370px;
 	padding: 10px;
 	background: url("http://i.imgur.com/O6J0pT9.png") repeat;
-	border: 1px #000 solid;
+	border: 0px #000 solid;
 	display: none;
 	z-index: 2;
 }
 #img_viewer li div img {
-	margin: 0px auto 5px auto;
-	width: 10%;
-	height: 10%;
+	margin: 0px auto 10px auto;
+	width: auto;
+	height: auto;
 	display: block;
 }
 #img_viewer li:hover div {
