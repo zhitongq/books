@@ -99,7 +99,7 @@ a {
 	font: 18pt Courier New;
 	top: 50px;
 	padding: 10px;
-	margin-left: 60px;
+	left: 60px;
 	background: url("http://i.imgur.com/O6J0pT9.png") repeat;
 	border: 1px #000 solid;
 	z-index: 2;
