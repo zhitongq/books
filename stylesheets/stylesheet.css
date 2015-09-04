@@ -80,6 +80,7 @@ a {
 }
 #img_viewer li {
 	border: 2px #ccc solid;
+	padding: 5px 10px;
 	width: 20px;
 	height: 20px;
 	margin: 6px;
