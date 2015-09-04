@@ -90,7 +90,7 @@ a {
 #img_viewer li img {
 	width: 10%;
 	height: 20%;
-	margin-left: 10%;
+	margin-left: -10%;
 	margin-top: -20%;
 }
 #img_viewer li div {
@@ -104,8 +104,8 @@ a {
 }
 #img_viewer li div img {
 	margin: 0px auto 10px auto;
-	width: 10%;
-	height: 10%;
+	width: 50%;
+	height: 50%;
 	display: block;
 }
 #img_viewer li:hover div {
@@ -122,7 +122,6 @@ a {
 	overflow: auto;
 	font: 12pt Verdana;
 	line-height: 18px;
-	background: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
 }
 h1 {
 	font: uppercase 24pt Courier New;
