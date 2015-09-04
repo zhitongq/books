@@ -68,7 +68,6 @@ a {
 	width: 350px;
 	border-right: 2px #999 solid;
 	float: left;
-	font: 18pt Courier New;
 	background-image: url(http://i.appsafari.com/wp-content/uploads/2010/04/shelf_wood_landscape.png);
 }
 #img_viewer {
@@ -88,9 +87,9 @@ a {
 	color: #e0e0e0;
 }
 #img_viewer li img {
-	width: 150%;
+	width: 100%;
 	margin-left: -10%;
-	margin-top: -20%;
+	margin-top: 20%;
 }
 #img_viewer li div {
 	top: 10px;
