@@ -80,17 +80,17 @@ a {
 #img_viewer li {
 	border: 2px #ccc solid;
 	width: 28%;
-	margin: 3px;
+	margin: 8px;
 	float: center;
 	overflow: hidden;
 	text-align: left;
-	font: 12pt Arial;
+	font: 10pt Arial;
 	color: #e0e0e0;
 }
 #img_viewer li img {
 	width: 10%;
 	height: 20%;
-	margin-left: -10%;
+	margin-left: 10%;
 	margin-top: -20%;
 }
 #img_viewer li div {
