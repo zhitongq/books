@@ -80,9 +80,10 @@ a {
 }
 #img_viewer li {
 	border: 2px #ccc solid;
-	width: 50px;
+	width: 20px;
+	height: 20px;
 	margin: 6px;
-	float: center;
+	float: left;
 	overflow: hidden;
 	text-align: left;
 	font: 10pt Arial;
