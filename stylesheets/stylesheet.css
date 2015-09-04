@@ -101,7 +101,7 @@ a {
 	padding: 10px;
 	background: url("http://i.imgur.com/O6J0pT9.png") repeat;
 	border: 1px #000 solid;
-	z-index: 4;
+	z-index: 2;
 }
 #img_viewer li div img {
 	margin: 0px auto 5px auto;
