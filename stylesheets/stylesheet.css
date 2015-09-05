@@ -53,7 +53,7 @@ a {
 	
 }
 .page-header h1 {
-  font: uppercase 24pt Courier New;
+	font: uppercase 24pt Courier New;
 	margin: 0px;
 	padding: 8px 0px;
 	clear: both; 
@@ -75,6 +75,7 @@ a {
 }
 #img_viewer {
 	font: 18pt Courier New;
+	padding: 4px 0px;
 	color: white;
 	margin: 0;
 	padding: 0;
